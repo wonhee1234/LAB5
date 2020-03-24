@@ -1,0 +1,25 @@
+table, td, tr, th{
+	border: 1px solid white;
+	border-collapse: collapse;
+	margin: auto;
+	text-align: center;
+	color: white;
+	width: 1000px;
+	height: 60px;
+}
+body{
+	background-color: gray;
+	margin: auto;
+	background-image: url('image/back.jpg');
+	font-family: 'Acme', sans-serif;
+}
+table{
+	background-color: rgb(149, 149, 234, 0.5);
+}
+h1{
+	text-align: center;
+	color: #66d9ff;
+}
+.bold{
+	font-weight: bold;
+}
